@@ -11,4 +11,5 @@ wheels/
 pyrightconfig.json
 
 # Game State Log
+*.jsonl
 game_state.jsonl
