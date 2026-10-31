@@ -13,3 +13,4 @@ pyrightconfig.json
 # Game State Log
 *.jsonl
 game_state.jsonl
+game_events.jsonl
